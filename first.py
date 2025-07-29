@@ -6,4 +6,4 @@ if credit_good :
 else :
     p =price * 0.2
     print(f"Amount to be paid : ${p}")
-print('Thanks for buying')
+print('Thanks for buying')#rajkumar
